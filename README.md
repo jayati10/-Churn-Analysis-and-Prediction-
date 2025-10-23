@@ -114,13 +114,13 @@ Developed dynamic and interactive dashboards to visualize:
 ```
 📁 churn-analysis/
 │
-├── 📂 data/                     # Raw & cleaned datasets
-├── 📂 notebooks/                # Python notebooks for EDA & ML
-├── 📂 dashboards/               # Power BI files (.pbix)
-├── 📂 sql/                      # SQL scripts for data setup and queries
-├── 📄 requirements.txt          # Python dependencies
-├── 📄 README.md                 # Project documentation (this file)
-└── 📄 churn_analysis.py         # Main Python analysis script
+├── 📂 data/                                    # Raw & cleaned datasets
+├── 📂 Background/                              # Images used for background in power bi dashboards
+├── 📂 dashboards/                              # Power BI files (.pbix)
+├── 📂 Images                                   # Images used in power bi dashboards
+├── 📄 SQL Queries                              # SQL scripts for data setup and queries
+├── 📄 README.md                                # Project documentation (this file)
+└── 📄 churn Analysis and Prediction.py         # Main Python analysis script
 ```
 
 ---
