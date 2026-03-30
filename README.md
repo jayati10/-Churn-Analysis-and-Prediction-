@@ -105,8 +105,8 @@ Developed dynamic and interactive dashboards to visualize:
 - Avg. Monthly Charges by Segment  
 - Tenure-based Churn Trends  
 
-> *(Add Power BI screenshot here if available)*
-
+![Dashboard Preview](Dashboard/Churn%20Analysis-%20Summary.png)
+![Dashboard Preview](Dashboard/Churn%20Analysis-%20Prediction.png)
 ---
 
 ## ⚙️ Project Structure
